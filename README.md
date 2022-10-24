@@ -27,4 +27,4 @@
 
 <br>
 
-  ![readme](https://github-readme-stats.vercel.app/api/pin/?username=andrersilva96&repo=andrersilva96&theme=react)
+  ![Snake animation](https://github.com/andrersilva96/andrersilva96/blob/output/github-contribution-grid-snake.svg)
