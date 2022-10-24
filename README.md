@@ -15,7 +15,7 @@
   <img align="center" alt="Andre-Language" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andre-Language" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Andre-Language" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <!-- <img align="right" alt="Andre-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/280079098406240266/db5120d1ec55f0bfe32391a0a44e720b.webp?size=80"> -->
+  <img align="right" alt="Andre-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202210/458801_O1dvopZf.png">
 </div>
 
 <br>
