@@ -24,5 +24,5 @@
   <a href = "mailto:andre.rsilva96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-rodrigues-763931ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![](https://github.com/andrersilva96/andrersilva96/blob/output/github-contribution-grid-snake.svg)
+  ![](https://github-readme-stats.vercel.app/api/pin/?username=andrersilva96&repo=andrersilva96&theme=react)
 </div>
