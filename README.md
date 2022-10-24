@@ -1,4 +1,4 @@
-## Olá sou André desenvolvedor web e mobile! 😄
+## Hi I'm André web and mobile developer! 😄
 <br>
 
 <div align="center">
